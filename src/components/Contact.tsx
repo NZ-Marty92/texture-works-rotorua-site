@@ -47,8 +47,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      content: "+64 7 XXX XXXX",
-      link: "tel:+647xxxxxxx"
+      content: "0800 83 83 83",
+      link: "tel:0800838383"
     },
     {
       icon: Mail,
